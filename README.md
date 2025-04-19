@@ -10,3 +10,9 @@ b = 2;
 % more tests
 
 % can i push without commiting? 
+
+% so i commit, and then using !git push origin main
+
+% then to pull I use !git pull origin main
+
+
